@@ -1,0 +1,2 @@
+	•	Histograma
+	•	Diagrama de Dispersión
