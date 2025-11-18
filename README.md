@@ -1,19 +1,12 @@
-# Análisis de Ventas de Vehículos
+# Car_Sales_Analysis
 
-## Descripción del Dataset
+Este proyecto utiliza un dataset de vehículos usados en EE.UU. para visualizar datos clave a través de Streamlit.  
+Incluye gráficos interactivos de histograma del odómetro y un gráfico de dispersión de odómetro vs precio.
 
-El dataset `vehicles_us.csv` contiene información sobre vehículos incluyendo características como el odómetro, precio, modelo y otros atributos relevantes para analizar patrones de ventas.
+### Cómo ejecutar la aplicación:
 
-## Funcionalidad de la Aplicación
+1. Activar el entorno virtual  
+2. Instalar dependencias  
+3. Ejecutar:
 
-La aplicación Streamlit proporciona visualizaciones interactivas:
-- **Histograma**: Muestra la distribución de valores del odómetro
-- **Scatter Plot**: Representa la relación entre el odómetro y el precio de los vehículos
-
-## Pasos para Ejecutar
-
-Para ejecutar la aplicación:
-
-```bash
-streamlit run app.py
-```
+   streamlit run app.py
